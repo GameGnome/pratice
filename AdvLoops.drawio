@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T12:32:05.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ogMFKBzq8JKDHLBpYMy_" version="15.5.8" type="github"><diagram id="GDMP_vEG5RRETmi2Cn6S" name="Page-1">5VlRb5swEP41kbpJlTCQhL4uy7qHbqvUh22PDjjgzWBkmyTs1+8IJkCdEqYqA7aHpubzge3P353vYOas4sO9wGn0iQeEzWwrOMyc9zPbRpbjwb8CyUtk7i5LIBQ00EY18ER/kepOjWY0ILJlqDhniqZt0OdJQnzVwrAQfN8223LWHjXFITGAJx8zE/1KAxWVqDe3avwjoWFUjYws3RPjylgDMsIB3zcgZz1zVoJzVbbiw4qwgryKl/K+Dy/0niYmSKJ63SC9bJu72yVNvQPP5KOw5rfz8ik7zDK9YD1ZlVcMkAAI0ZdcqIiHPMFsXaPvBM+SgBTDWHBV2zxwngKIAPxBlMr17uJMcYAiFTPday5Fr07yTPikY/56ugqLkKgOO7e0K9bSGEATdU94TJTIwUAQhhXdtTcfaw2FJ7uaZmhopv+AddtgHRZOBEBJFm+OjS0vfnlKBE4CaWxKTXnB3z6iijyl+EjVHhyxJ707IhQ5dBKiex1Xq1i7saMv97VPoEroUcMfFtbrKVyRgEZYxv53eWujdYw/29/OUJgTk6ZRa9c1tXt2qWhU2nUN4qks7lHFYA0FPxdsxONNJv+OWBdtsaIzavXOiNW7llinHmUXPZU6rii7eDHK4qSKreoYZm9mNrCzuoW/Ykh79faNsUFwfKdFE/jDjBHGQ4FjYBWeQmG+8NxnfY91xyXNb+mBVLnPtQL24BHbmY4TdIXhi6nGYign6Jp1g3UJmieNQL3AcSHHZCPTEz9ndO/njAL1wrks5025SQ+bE4D9n+Fx675kCh5T6Vxqyc+hHVAB+TvlCQCwF4VGr3EW2G6/s+BqbrCcVOLSFeYvHgfj8oTOxKV9IIwod3HRwLnL3cTDdt/cxRuVWM3cpQrbL6r0HwvUc3vgQI3MEnNayvd6Kh8NVmB2TfsVL0cmnqovBk/V0YQK1vMLsPpqf7CStXPezbiPd/9vtu4NfghMvmo9U7Z2Sm8snmAWrqN/z7jsqdar5erILC4nptbe78THVVsis7j0MfMzGJto0T7bhgvqxDItv2Ye843ryPVu6NISmVVOQGXKcN5M9m5IEpivY4f+AIasK2ZpcFl/Fz72Nb6uO+vf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-22T12:47:32.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="w3t5Wd_mvgRDUnpZHDJ7" version="15.5.8" type="github">
+  <diagram id="GDMP_vEG5RRETmi2Cn6S" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1s8ufy4f7ip8xousPr05-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1s8ufy4f7ip8xousPr05-2" target="1s8ufy4f7ip8xousPr05-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1s8ufy4f7ip8xousPr05-2" value="enter number for operands" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-2" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1s8ufy4f7ip8xousPr05-4" target="CedihasmcYs-21EmaN2X-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1s8ufy4f7ip8xousPr05-4" value="is it a number" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1s8ufy4f7ip8xousPr05-6" target="CedihasmcYs-21EmaN2X-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1s8ufy4f7ip8xousPr05-6" value="enter an operator (+,-,/,*,c,q)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CedihasmcYs-21EmaN2X-1" target="1s8ufy4f7ip8xousPr05-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-1" value="store number&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="360" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-7" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CedihasmcYs-21EmaN2X-4" target="CedihasmcYs-21EmaN2X-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-4" value="is it an operator" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CedihasmcYs-21EmaN2X-6" target="CedihasmcYs-21EmaN2X-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-6" value="store operator" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="360" y="520" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CedihasmcYs-21EmaN2X-8" target="CedihasmcYs-21EmaN2X-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-8" value="enter number for operands" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CedihasmcYs-21EmaN2X-10" target="CedihasmcYs-21EmaN2X-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-10" value="save number&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="360" y="820" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CedihasmcYs-21EmaN2X-11" target="CedihasmcYs-21EmaN2X-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-11" value="is it a number" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CedihasmcYs-21EmaN2X-14" target="CedihasmcYs-21EmaN2X-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-14" value="calculate it" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="360" y="910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CedihasmcYs-21EmaN2X-16" value="display number (end)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
