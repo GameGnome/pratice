@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T12:58:25.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="QjJcmi9GONXqT0hBLw98" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T12:32:05.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="zCuXIiKoMoZ_EjA7HqT_" version="15.5.9" type="github">
   <diagram id="GDMP_vEG5RRETmi2Cn6S" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="CedihasmcYs-21EmaN2X-7" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CedihasmcYs-21EmaN2X-4" target="CedihasmcYs-21EmaN2X-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xvrQLs0MpoV4c28ULeX--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CedihasmcYs-21EmaN2X-4" target="xvrQLs0MpoV4c28ULeX--1">
+        <mxCell id="xvrQLs0MpoV4c28ULeX--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CedihasmcYs-21EmaN2X-4" target="xvrQLs0MpoV4c28ULeX--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CedihasmcYs-21EmaN2X-4" value="is it an operator" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -70,8 +70,22 @@
         <mxCell id="CedihasmcYs-21EmaN2X-16" value="display number (end)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xvrQLs0MpoV4c28ULeX--1" value="c or q" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KmGCE57oq_zuWYv6HeW--2" value="c" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvrQLs0MpoV4c28ULeX--1" target="KmGCE57oq_zuWYv6HeW--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KmGCE57oq_zuWYv6HeW--4" value="q" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xvrQLs0MpoV4c28ULeX--1" target="KmGCE57oq_zuWYv6HeW--5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xvrQLs0MpoV4c28ULeX--1" value="c or q" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KmGCE57oq_zuWYv6HeW--1" value="clear" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KmGCE57oq_zuWYv6HeW--5" value="end&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
